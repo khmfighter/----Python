@@ -16,81 +16,82 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PycharmProjects$os.coverage" NAME="os Coverage Results" MODIFIED="1472027418616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/file" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$threading.coverage" NAME="threading Coverage Results" MODIFIED="1474026818641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$NoneType.coverage" NAME="NoneType Coverage Results" MODIFIED="1476808050404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1473046520316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/func" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$def.coverage" NAME="def Coverage Results" MODIFIED="1478536281732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/函数" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1470189694998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/DB" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$update.coverage" NAME="update Coverage Results" MODIFIED="1473042511050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/DB" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fabna.coverage" NAME="fabna Coverage Results" MODIFIED="1471944835172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$march.coverage" NAME="march Coverage Results" MODIFIED="1472907124934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lock.coverage" NAME="lock Coverage Results" MODIFIED="1473045833735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$with.coverage" NAME="with Coverage Results" MODIFIED="1473043021678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sleep.coverage" NAME="sleep Coverage Results" MODIFIED="1473044428773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$counter.coverage" NAME="counter Coverage Results" MODIFIED="1476808184390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sette.coverage" NAME="sette Coverage Results" MODIFIED="1472909319488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/class" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lambdaTest.coverage" NAME="lambdaTest Coverage Results" MODIFIED="1472024097472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/func" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$TKinterf.coverage" NAME="TKinterf Coverage Results" MODIFIED="1471967218640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/GUI'" />
     <SUITE FILE_PATH="coverage/PycharmProjects$write.coverage" NAME="write Coverage Results" MODIFIED="1472027046460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/file" />
     <SUITE FILE_PATH="coverage/PycharmProjects$guess_number.coverage" NAME="guess_number Coverage Results" MODIFIED="1476807923257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$update.coverage" NAME="update Coverage Results" MODIFIED="1473042511050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/DB" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$start_end_with.coverage" NAME="start_end_with Coverage Results" MODIFIED="1478104225732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/字符串与文本" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Desructor.coverage" NAME="Desructor Coverage Results" MODIFIED="1473043387160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/OO" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$traceback.coverage" NAME="traceback Coverage Results" MODIFIED="1474025006419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$march.coverage" NAME="march Coverage Results" MODIFIED="1472907124934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$pickle.coverage" NAME="pickle Coverage Results" MODIFIED="1472909405122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$fabna.coverage" NAME="fabna Coverage Results" MODIFIED="1471944835172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1470189694998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/DB" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1478362953285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/迭代器和生成器" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1472911522918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/string" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$lock.coverage" NAME="lock Coverage Results" MODIFIED="1473045833735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$DIYError.coverage" NAME="DIYError Coverage Results" MODIFIED="1473042756399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Error" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$sleep.coverage" NAME="sleep Coverage Results" MODIFIED="1473044428773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$withExitEnter.coverage" NAME="withExitEnter Coverage Results" MODIFIED="1473579081217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Unicode.coverage" NAME="Unicode Coverage Results" MODIFIED="1473575650403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
     <SUITE FILE_PATH="coverage/PycharmProjects$iter.coverage" NAME="iter Coverage Results" MODIFIED="1472128839738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/string" />
     <SUITE FILE_PATH="coverage/PycharmProjects$yield.coverage" NAME="yield Coverage Results" MODIFIED="1473391339087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$eval.coverage" NAME="eval Coverage Results" MODIFIED="1476807885097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$joinTest.coverage" NAME="joinTest Coverage Results" MODIFIED="1473663540933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$untitled1.coverage" NAME="untitled1 Coverage Results" MODIFIED="1470040668323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$num.coverage" NAME="num Coverage Results" MODIFIED="1470905046875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine study" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$scale.coverage" NAME="scale Coverage Results" MODIFIED="1471967231619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/GUI'" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$myThread.coverage" NAME="myThread Coverage Results" MODIFIED="1471944826999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$value.coverage" NAME="value Coverage Results" MODIFIED="1478275407260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/数字日期时间" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$import.coverage" NAME="import Coverage Results" MODIFIED="1472906886894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$research.coverage" NAME="research Coverage Results" MODIFIED="1473062260244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$lambdaTest.coverage" NAME="lambdaTest Coverage Results" MODIFIED="1472024097472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/func" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$123456.coverage" NAME="123456 Coverage Results" MODIFIED="1476798253796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$sette.coverage" NAME="sette Coverage Results" MODIFIED="1472909319488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/class" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1473062390992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$4_3.coverage" NAME="4.3归并排序 Coverage Results" MODIFIED="1476894856745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Unittest_testyield.coverage" NAME="Unittest testyield Coverage Results" MODIFIED="1471940881275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$random.coverage" NAME="random Coverage Results" MODIFIED="1473042919438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Error" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$TKinterf.coverage" NAME="TKinterf Coverage Results" MODIFIED="1471967218640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/GUI'" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Enum.coverage" NAME="Enum Coverage Results" MODIFIED="1476807250051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$1_3.coverage" NAME="1.3欧几里得 Coverage Results" MODIFIED="1476521136233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$1_3_.coverage" NAME="1.3 最大公约数 Coverage Results" MODIFIED="1476521260544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$FuncBing.coverage" NAME="FuncBing Coverage Results" MODIFIED="1472906682998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$IO.coverage" NAME="IO Coverage Results" MODIFIED="1478447932367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/读写文本" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$groupby.coverage" NAME="groupby Coverage Results" MODIFIED="1472906788950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1476807763336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$yuan.coverage" NAME="yuan Coverage Results" MODIFIED="1479401209404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/元编程" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$counter.coverage" NAME="counter Coverage Results" MODIFIED="1476808184390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$startnewthread.coverage" NAME="startnewthread Coverage Results" MODIFIED="1473044394038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$KNN.coverage" NAME="KNN Coverage Results" MODIFIED="1470579744546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine study/K2" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$set.coverage" NAME="set Coverage Results" MODIFIED="1472026385633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/string" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$collections_deque.coverage" NAME="collections_deque Coverage Results" MODIFIED="1477930948202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/数据结构" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1473131782227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/CGI/cgi-bin" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$class.coverage" NAME="class Coverage Results" MODIFIED="1479055391560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/类与对象" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$subn.coverage" NAME="subn Coverage Results" MODIFIED="1473062360423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$question_.coverage" NAME="question! Coverage Results" MODIFIED="1473046758168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$with.coverage" NAME="with Coverage Results" MODIFIED="1473043021678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Error" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$3_3.coverage" NAME="3.3冒泡排序 Coverage Results" MODIFIED="1476798268567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$logging.coverage" NAME="logging Coverage Results" MODIFIED="1474026037286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$dir.coverage" NAME="dir Coverage Results" MODIFIED="1472905956769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$match.coverage" NAME="match Coverage Results" MODIFIED="1471869783866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$heapq.coverage" NAME="heapq Coverage Results" MODIFIED="1477840043069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/数据结构" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1473046520316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/func" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$def.coverage" NAME="def Coverage Results" MODIFIED="1478536281732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/函数" />
     <SUITE FILE_PATH="coverage/PycharmProjects$dict.coverage" NAME="dict Coverage Results" MODIFIED="1472906015249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1471855445453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$str.coverage" NAME="str Coverage Results" MODIFIED="1473945242105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$new.coverage" NAME="new Coverage Results" MODIFIED="1472909085018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/class" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$start_end_with.coverage" NAME="start_end_with Coverage Results" MODIFIED="1478104225732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/字符串与文本" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$IO.coverage" NAME="IO Coverage Results" MODIFIED="1478447932367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/读写文本" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$withExitEnter.coverage" NAME="withExitEnter Coverage Results" MODIFIED="1473579081217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$eval.coverage" NAME="eval Coverage Results" MODIFIED="1476807885097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$logging.coverage" NAME="logging Coverage Results" MODIFIED="1474026037286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$String.coverage" NAME="String Coverage Results" MODIFIED="1472910924576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1478362953285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/迭代器和生成器" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$subn.coverage" NAME="subn Coverage Results" MODIFIED="1473062360423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$untitled1.coverage" NAME="untitled1 Coverage Results" MODIFIED="1470040668323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testpickle.coverage" NAME="testpickle Coverage Results" MODIFIED="1472029959902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fromimport.coverage" NAME="fromimport Coverage Results" MODIFIED="1472906083763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1472911522918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/string" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$1_3_.coverage" NAME="1.3 最大公约数 Coverage Results" MODIFIED="1476521260544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$random.coverage" NAME="random Coverage Results" MODIFIED="1473042919438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Error" />
     <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME="闭包 Coverage Results" MODIFIED="1478537554312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/函数" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$FuncBing.coverage" NAME="FuncBing Coverage Results" MODIFIED="1472906682998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1476807763336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$num.coverage" NAME="num Coverage Results" MODIFIED="1470905046875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine study" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$yuan.coverage" NAME="yuan Coverage Results" MODIFIED="1479401209404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/元编程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittest_testyield.coverage" NAME="Unittest testyield Coverage Results" MODIFIED="1471940881275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$scale.coverage" NAME="scale Coverage Results" MODIFIED="1471967231619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/GUI'" />
     <SUITE FILE_PATH="coverage/PycharmProjects$trees.coverage" NAME="trees Coverage Results" MODIFIED="1470749266630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine study/trees" />
     <SUITE FILE_PATH="coverage/PycharmProjects$oo.coverage" NAME="oo Coverage Results" MODIFIED="1472908543314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$String.coverage" NAME="String Coverage Results" MODIFIED="1472910924576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$fromimport.coverage" NAME="fromimport Coverage Results" MODIFIED="1472906083763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Desructor.coverage" NAME="Desructor Coverage Results" MODIFIED="1473043387160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/OO" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$NoneType.coverage" NAME="NoneType Coverage Results" MODIFIED="1476808050404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$set.coverage" NAME="set Coverage Results" MODIFIED="1472026385633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/string" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$123456.coverage" NAME="123456 Coverage Results" MODIFIED="1476798253796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$myThread.coverage" NAME="myThread Coverage Results" MODIFIED="1471944826999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$value.coverage" NAME="value Coverage Results" MODIFIED="1478275407260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/数字日期时间" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$class.coverage" NAME="class Coverage Results" MODIFIED="1479055391560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/类与对象" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$question_.coverage" NAME="question! Coverage Results" MODIFIED="1473046758168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threading.coverage" NAME="threading Coverage Results" MODIFIED="1474026818641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$import.coverage" NAME="import Coverage Results" MODIFIED="1472906886894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dir.coverage" NAME="dir Coverage Results" MODIFIED="1472905956769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$collections_deque.coverage" NAME="collections_deque Coverage Results" MODIFIED="1477930948202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/数据结构" />
     <SUITE FILE_PATH="coverage/PycharmProjects$list.coverage" NAME="list Coverage Results" MODIFIED="1472911337618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/string" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$testpickle.coverage" NAME="testpickle Coverage Results" MODIFIED="1472029959902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$1_3.coverage" NAME="1.3欧几里得 Coverage Results" MODIFIED="1476521136233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1473062390992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$heapq.coverage" NAME="heapq Coverage Results" MODIFIED="1477840043069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook/数据结构" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$joinTest.coverage" NAME="joinTest Coverage Results" MODIFIED="1473663540933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$startnewthread.coverage" NAME="startnewthread Coverage Results" MODIFIED="1473044394038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pickle.coverage" NAME="pickle Coverage Results" MODIFIED="1472909405122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unicode.coverage" NAME="Unicode Coverage Results" MODIFIED="1473575650403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$match.coverage" NAME="match Coverage Results" MODIFIED="1471869783866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$traceback.coverage" NAME="traceback Coverage Results" MODIFIED="1474025006419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$research.coverage" NAME="research Coverage Results" MODIFIED="1473062260244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/march" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$os.coverage" NAME="os Coverage Results" MODIFIED="1472027418616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/file" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$4_3.coverage" NAME="4.3归并排序 Coverage Results" MODIFIED="1476894856745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$KNN.coverage" NAME="KNN Coverage Results" MODIFIED="1470579744546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine study/K2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1473131782227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/CGI/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testGithub.coverage" NAME="testGithub Coverage Results" MODIFIED="1479546296370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议/cookbook" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$str.coverage" NAME="str Coverage Results" MODIFIED="1473945242105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$new.coverage" NAME="new Coverage Results" MODIFIED="1472909085018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/class" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1471855445453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Enum.coverage" NAME="Enum Coverage Results" MODIFIED="1476807250051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/91个建议" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DIYError.coverage" NAME="DIYError Coverage Results" MODIFIED="1473042756399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/Error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$groupby.coverage" NAME="groupby Coverage Results" MODIFIED="1472906788950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_3.coverage" NAME="3.3冒泡排序 Coverage Results" MODIFIED="1476798268567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -104,7 +105,7 @@
       <file leaf-file-name="yuan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/91个建议/cookbook/元编程/yuan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
+            <state relative-caret-position="14634">
               <caret line="272" column="11" selection-start-line="272" selection-start-column="11" selection-end-line="272" selection-end-column="11" />
               <folding>
                 <element signature="e#43#54#0" expanded="true" />
@@ -113,11 +114,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="单例模式.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="单例模式.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/91个建议/设计模式/单例模式.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="-93">
+              <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testGithub.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/91个建议/cookbook/testGithub.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -138,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/untitled/CGI/cgi-bin/main.py" />
         <option value="$PROJECT_DIR$/untitled/CGI/cgi-bin/oumingwang.py" />
         <option value="$PROJECT_DIR$/91个建议/guess_number.py" />
         <option value="$PROJECT_DIR$/91个建议/yield.py" />
@@ -189,6 +199,7 @@
         <option value="$PROJECT_DIR$/91个建议/cookbook/类与对象/class.py" />
         <option value="$PROJECT_DIR$/91个建议/cookbook/元编程/yuan.py" />
         <option value="$PROJECT_DIR$/91个建议/设计模式/单例模式.py" />
+        <option value="$PROJECT_DIR$/91个建议/cookbook/testGithub.py" />
       </list>
     </option>
   </component>
@@ -199,9 +210,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1920" />
-    <option name="height" value="977" />
+    <option name="x" value="-244" />
+    <option name="y" value="147" />
+    <option name="width" value="1924" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -228,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -290,6 +303,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="设计模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="91个建议" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookbook" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,7 +502,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,25 +522,7 @@
       <recent name="C:\Users\Administrator\PycharmProjects\untitled\协程" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.yuan">
-    <configuration default="false" name="IO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/91个建议/cookbook/读写文本" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/91个建议/cookbook/读写文本/IO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.testGithub">
     <configuration default="false" name="def" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -579,6 +591,24 @@
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/91个建议/cookbook/元编程/yuan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testGithub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/91个建议/cookbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/91个建议/cookbook/testGithub.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -792,19 +822,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.IO" />
-      <item index="1" class="java.lang.String" itemvalue="Python.def" />
-      <item index="2" class="java.lang.String" itemvalue="Python.闭包" />
-      <item index="3" class="java.lang.String" itemvalue="Python.class" />
-      <item index="4" class="java.lang.String" itemvalue="Python.yuan" />
+      <item index="0" class="java.lang.String" itemvalue="Python.def" />
+      <item index="1" class="java.lang.String" itemvalue="Python.闭包" />
+      <item index="2" class="java.lang.String" itemvalue="Python.class" />
+      <item index="3" class="java.lang.String" itemvalue="Python.yuan" />
+      <item index="4" class="java.lang.String" itemvalue="Python.testGithub" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.yuan" />
-        <item index="1" class="java.lang.String" itemvalue="Python.class" />
-        <item index="2" class="java.lang.String" itemvalue="Python.闭包" />
-        <item index="3" class="java.lang.String" itemvalue="Python.def" />
-        <item index="4" class="java.lang.String" itemvalue="Python.IO" />
+        <item index="0" class="java.lang.String" itemvalue="Python.testGithub" />
+        <item index="1" class="java.lang.String" itemvalue="Python.yuan" />
+        <item index="2" class="java.lang.String" itemvalue="Python.class" />
+        <item index="3" class="java.lang.String" itemvalue="Python.闭包" />
+        <item index="4" class="java.lang.String" itemvalue="Python.def" />
       </list>
     </recent_temporary>
   </component>
@@ -830,27 +860,27 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="977" extended-state="6" />
+    <frame x="-244" y="147" width="1924" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1741453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17523609" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39782608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284091" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2176235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39782608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -898,13 +928,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/91个建议/str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/91个建议/设计模式/工厂方法模式.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -1240,7 +1263,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/91个建议/cookbook/元编程/yuan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
+        <state relative-caret-position="14634">
           <caret line="272" column="11" selection-start-line="272" selection-start-column="11" selection-end-line="272" selection-end-column="11" />
           <folding>
             <element signature="e#43#54#0" expanded="true" />
@@ -1250,8 +1273,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/91个建议/设计模式/单例模式.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state relative-caret-position="-93">
+          <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/91个建议/cookbook/testGithub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
           <folding />
         </state>
       </provider>
