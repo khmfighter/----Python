@@ -2,8 +2,20 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 2.7.12 (C:\Python27\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7.13 (C:\Python27\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="First_Name" />
+    <orderEntry type="module" module-name="temp" />
+    <orderEntry type="module" module-name="django_db" />
+    <orderEntry type="module" module-name="djangoblog" />
+    <orderEntry type="module" module-name="admin" />
+    <orderEntry type="module" module-name="formDjango" />
+    <orderEntry type="module" module-name="formDjango2" />
+    <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="imgdb" />
+    <orderEntry type="module" module-name="I18N" />
+    <orderEntry type="module" module-name="JavaScript" />
+    <orderEntry type="module" module-name="text1" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />

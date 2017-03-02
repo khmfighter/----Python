@@ -8,16 +8,16 @@ print('acme',50,98.5,sep=',')
 print('acme',50,98.5,sep=',',end='!!!/n')
 s1 = ['acme',50,98.5]
 s = ','.join(str(x) for x in s1)
-print (s)
+   print (s)
 
+   # 序列化pickle
+   import os
+   import pickle
 
-#序列化pickle
-import os
-import pickle
-f = open('simple','wb')
-pickle.dump('hello',f)
-s = open('simple','rb')
-str1 = pickle.loads(s)
-print(str(str1))
+   f = open('simple', 'wb')
+   pickle.dump('hello', f)
+   s = open('simple', 'rb')
+   str1 = pickle.loads(s)
+   print(str(str1))
 
 

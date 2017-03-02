@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/First_Name/.idea/First_Name.iml" filepath="$USER_HOME$/PycharmProjects/First_Name/.idea/First_Name.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/I18N/.idea/I18N.iml" filepath="$USER_HOME$/PycharmProjects/I18N/.idea/I18N.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/JavaScript/.idea/JavaScript.iml" filepath="$USER_HOME$/PycharmProjects/JavaScript/.idea/JavaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/admin/.idea/admin.iml" filepath="$USER_HOME$/PycharmProjects/admin/.idea/admin.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/django_db/.idea/django_db.iml" filepath="$USER_HOME$/PycharmProjects/django_db/.idea/django_db.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/djangoblog/.idea/djangoblog.iml" filepath="$USER_HOME$/PycharmProjects/djangoblog/.idea/djangoblog.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/formDjango/.idea/formDjango.iml" filepath="$USER_HOME$/PycharmProjects/formDjango/.idea/formDjango.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/formDjango2/.idea/formDjango2.iml" filepath="$USER_HOME$/PycharmProjects/formDjango2/.idea/formDjango2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/imgdb/.idea/imgdb.iml" filepath="$USER_HOME$/Desktop/imgdb/.idea/imgdb.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/mysite/.idea/mysite.iml" filepath="$USER_HOME$/PycharmProjects/mysite/.idea/mysite.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/temp/.idea/temp.iml" filepath="$USER_HOME$/PycharmProjects/temp/.idea/temp.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/text1/.idea/text1.iml" filepath="$USER_HOME$/PycharmProjects/text1/.idea/text1.iml" />
     </modules>
   </component>
 </project>
