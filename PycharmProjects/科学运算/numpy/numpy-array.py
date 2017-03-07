@@ -230,3 +230,7 @@ print a
 print tile(b,(4,1)) #创建0数组
 
 print a.argsort() #数组中数值大小进行排序
+
+from random import uniform
+
+print int(random.uniform(0,50))

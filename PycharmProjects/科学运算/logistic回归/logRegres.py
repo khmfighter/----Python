@@ -58,3 +58,5 @@ def stoGrabAscent1(dataMatrix,classLabel,numIter=150):
             weights = weights + alpha*error*dataMatrix[randIndex]
             del(dataIndex[randIndex])
         return weights
+
+
