@@ -104,11 +104,45 @@ def ridgeTest(xArr,yArr):
         wMat[i,:] = ws.T
     return wMat
 
+def rssError(yArr,yHatArr):
+    return ((yArr - yHatArr) ** 2).sum()
+
+
+#xArr,yArr = loadData("abalone.txt")
+#ridgeWeights = ridgeTest(xArr,yArr)
+#print ridgeWeights
+
+
+#前向逐步回归
+def stageWise(xArr,yArr,eps=0.01,numIter=100):
+    xMat = mat(xArr)
+    yMat = mat(yArr).T
+    yMean = mean(yMat,0)
+    yMat = yMat - yMean
+    xMean = mean(xMat,0)
+    xVar = var(xMat,0)
+    xMat = (xMat - xMean)/xVar
+    m,n = shape(xMat)
+    returnMat = zeros((numIter,n))
+    ws = zeros((n,1))   #创造向量来保存weights的值
+    wsTest = ws.copy()
+    wsMax = ws.copy()
+    for i in range(numIter):
+        print ws.T
+        lowerstError = inf
+        for j in range(n):
+            for sign in [-1,1]:
+                wsTest = ws.copy()
+                wsTest[j] += eps*sign
+                yTest = xMat * wsTest
+                rssE = rssError(yMat.A,yTest.A)
+                if rssE < lowerstError:
+                    lowerstError = rssE
+                    wsMax = wsTest
+        ws = wsMax.copy()
+        returnMat[i,:] = ws.T
+    return returnMat
 xArr,yArr = loadData("abalone.txt")
-ridgeWeights = ridgeTest(xArr,yArr)
 
-print ridgeWeights
-
-import matplotlib as plt
-fig = plt.figure()
-ax = fig.add_subplot(111)
+print stageWise(xArr,yArr,0.01,200)[0:10,:]
+print stageWise(xArr,yArr,0.001,5000)[0:10,:]
