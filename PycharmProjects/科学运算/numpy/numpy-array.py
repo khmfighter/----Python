@@ -240,3 +240,8 @@ b = array([[4,1],[3,2]])
 print a
 print b
 print multiply(a,b)
+
+a = arange(16).reshape(4,4)
+print mat(a).A
+print mat(b).A
+print nonzero(mat(a)[:,0].A == 0)[0]
