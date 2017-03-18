@@ -42,8 +42,8 @@ def buildStump(dataArr,classLabel,D):
                 errArr = mat(ones((m,1)))
                 errArr[predictedVals == labelMat] = 0
                 weightedError = D.T * errArr
-                print "split : dim %d,thresh %.2f ,thresh ineqal %s,the weighted" \
-                      "error  is %.3f" % (i,threshVal,inequal,weightedError)
+                #print "split : dim %d,thresh %.2f ,thresh ineqal %s,the weighted" \
+                #      "error  is %.3f" % (i,threshVal,inequal,weightedError)
                 if weightedError < minError:
                     minError = weightedError
                     bestClasEst = predictedVals.copy()
@@ -66,16 +66,16 @@ def adaBoostTrainDs(dataArr,classLabels,numIter = 40):
     aggClassEst = mat(zeros((m,1)))
     for i in range(numIter):
         bestStump,error,classEst = buildStump(dataArr,classLabels,D)
-        print 'D:',D
+        #print 'D:',D
         alpha = float(0.5*log((1.0 - error)/max(error,1e-16)))
         bestStump['alpha'] = alpha
         weakClassArr.append(bestStump)
-        print "classEst:",classEst.T
+        #print "classEst:",classEst.T
         expon = multiply(-1*alpha*mat(classLabels).T,classEst)
         D = multiply(D,exp(expon))
         D = D/D.sum()
         aggClassEst += alpha*classEst
-        print "aggClassEst :",aggClassEst.T
+        #print "aggClassEst :",aggClassEst.T
         aggErrors = multiply(sign(aggClassEst) != mat(classLabels).T,ones((m,1)))
         errorRate = aggErrors.sum()/m
         print "total error:",errorRate,"\n"
@@ -96,14 +96,13 @@ def adaClassify(daToClass,classifierArr):
                                  classifierArr[i]['thresh'],
                                  classifierArr[i]['ineq'])
         aggClassEst += classifierArr[i]['alpha']*classEst
-        print aggClassEst
+        print "aggClassEst:",aggClassEst
     return sign(aggClassEst)
 
-
+'''
 datMat,classLabel = loadDataSet()
 classifierArray = adaBoostTrainDs(datMat,classLabel,9)
 print adaClassify([0,0],classifierArray)
 print adaClassify([[5,5],[0,0]],classifierArray)
-
-
 print sign(0.69314718+1.66610226+2.56198199)
+'''
