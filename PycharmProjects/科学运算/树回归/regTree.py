@@ -33,21 +33,21 @@ def chooseBestSplit(dataSet,leafType=regLeaf,errType=regErr,ops=(1,4)):
         return None,leafType(dataSet)
     m,n = shape(dataSet)
     S = errType(dataSet)
-    beats = inf
+    beatS = inf
     bestIndex = 0
     bestValue = 0
     for featIndex in range(n-1):
-        for splitVal in set(dataSet[:,featIndex]):
-            #对样本进行切分
+        for splitVal in set((dataSet[:, featIndex].T.tolist()[0])):
+        #对样本进行切分
             mat0,mat1 = binSplitDataSet(dataSet,featIndex,splitVal)
             #判断是否符合最小样本数
             if (shape(mat0)[0] < tolN) or (shape(mat1)[0] < tolN):continue
             newS = errType(mat0) + errType(mat1)
-            if newS < beats:
+            if newS < beatS:
                 bestIndex = featIndex
                 bestValue = splitVal
                 beatS = newS
-    if (S - beats) < tolS:
+    if (S - beatS) < tolS:
         return None,leafType(dataSet)
     mat0,mat1 = binSplitDataSet(dataSet,bestIndex,bestValue)
     if (shape(mat0)[0] < tolN) or (shape(mat1)[0] < tolN):
@@ -70,3 +70,5 @@ def createTree(dataSet,leafType=regLeaf,errType=regErr,ops=(1,4)):
 myDat = loadData('ex00.txt')
 myMat = mat(myDat)
 print createTree(myMat)
+
+
