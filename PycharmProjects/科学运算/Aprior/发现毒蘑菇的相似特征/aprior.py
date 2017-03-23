@@ -113,7 +113,7 @@ def rulesFromConseq(freqSet,H,supportData,br1,minConf=0.7):
         if (len(Hmp1) > 1):
             rulesFromConseq(freqSet,Hmp1,supportData,br1,minConf)
 
-'''
+
 dataSet = loadData()
 
 L,supportData = apriori(dataSet,0.5)
@@ -121,4 +121,3 @@ L,supportData = apriori(dataSet,0.5)
 rules = generateResult(L,supportData,0.5)
 
 print rules
-'''
