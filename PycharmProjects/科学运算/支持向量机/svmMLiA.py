@@ -48,35 +48,46 @@ def smoSimple(dataMat,classLabels,C,toler,maxIter):
             (dataMat*dataMat[i,:].T)) + b
             #预测结果与真实值之间的差值
             Ei = fXi - float(labelMat[i])
+            #判断该alpha是否可以被优化，C为松弛变量的值，alpha大于零小于C
             if ((labelMat[i]*Ei < -toler) and (alphas[i] < C)) or \
                     ((labelMat[i] *Ei > toler) and (alphas[i] > 0)):
+                #选定一个alpha，从剩下里面随机选取另一个alpha
                 j = selectJrand(i,m)
+                #选取的另一个alpha值预测真实值与预测值之间的差值
                 fXj = float(multiply(alphas,labelMat).T*\
                             (dataMat*dataMat[j,:].T)) + b
                 Ej = fXj - float(labelMat[j])
                 alphaIold = alphas[i].copy() #深拷贝
                 alphaJold = alphas[j].copy() #浅拷贝
+                #如果alphai 与 alphaj 异号，则：
                 if(labelMat[i] != labelMat[j]):
                     L = max(0,alphas[j] - alphas[i])
                     H = min(C,C+alphas[j] - alphas[i])
+                #如果同号，则：（ 只有+1 或 -1两种取值）
                 else:
                     L = max(0,alphas[i] + alphas[j] - C)
                     H = min(C,alphas[i]+alphas[j])
                 if L == H:
-                    print "L == H";continue
+                    #print "L == H"
+                    continue
                 eta = 2.0 * dataMat[i,:]*dataMat[j,:].T - \
                     dataMat[i,:]*dataMat[j,:].T - \
                     dataMat[j,:]*dataMat[j,:].T
                 if eta >= 0 :
-                    print "eta>=0";continue
-                #满足约束条件
-                alphas[i] -= labelMat[j]*(Ei - Ej)/eta
+                    #print "eta>=0"
+                    continue
+                #对alphaj进行改变，与alpha改变相反，方向改变，一大一小，一加一减
+                alphas[j] -= labelMat[j]*(Ei - Ej)/eta
                 alphas[j] = clipAlpha(alphas[j],H,L)
-
+                #检查alphaj是否有改变
                 if (abs(alphas[j] - alphaJold) < 0.00001):
-                    print "J not moving enough" ;continue
+                    #print "J not moving enough"
+                    continue
+                #对alphai进行改变
                 alphas[i] += labelMat[j]*labelMat[i]*\
                              (alphaJold - alphas[j])
+
+                #为
                 b1 = b - Ei - labelMat[i]*(alphas[i]-alphaIold)*\
                     dataMat[i,:]*dataMat[i,:].T - \
                     labelMat[j]*(alphas[j]-alphaJold)*\
@@ -92,21 +103,23 @@ def smoSimple(dataMat,classLabels,C,toler,maxIter):
                 else:
                     b = (b1 + b2)/2.0
                 alphaPairsChanged += 1
-                print "iter: %d i : %d,pairs changed %d" %\
-                      (iter,i,alphaPairsChanged)
+                #print "iter: %d i : %d,pairs changed %d" %\
+                      #(iter,i,alphaPairsChanged)
         if(alphaPairsChanged == 0):
             iter += 1
         else:
             iter = 0
-        print "iteration number : %d" % iter
+        #print "iteration number : %d" % iter
 
     return b,alphas
 
 
 dataMat,labelMat = loadDataSet('testSet.txt')
-print dataMat
-print labelMat
+#print dataMat
+#print labelMat
 
-alpha , b = smoSimple(dataMat,labelMat,0.6,0.001,40)
 
+b ,alpha = smoSimple(dataMat,labelMat,0.6,0.001,40)
+print alpha
+print b
 
