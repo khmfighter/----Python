@@ -96,6 +96,7 @@ def ridgeTest(xArr,yArr):
     yMat = yMat - yMean
     xMeans = mean(xMat,0)
     xVar = var(xMat,0)
+    #均值归一化
     xMat = (xMat - xMeans)/xVar
     numTestPts = 30
     wMat = zeros((numTestPts,shape(xMat)[1]))
